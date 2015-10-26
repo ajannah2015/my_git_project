@@ -1,2 +1,3 @@
 hamster
 hitam
+putih
